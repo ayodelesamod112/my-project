@@ -4,6 +4,16 @@ body{
     font-family: sans-serif;
     
 }
+
+.background{
+  background-image: url(./img/pexels-photo-6347919.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 30px;
+   padding-bottom: 10%;
+   margin-top: 5%;
+}
+
 .header{
     display: flex;
     justify-content: space-around;
