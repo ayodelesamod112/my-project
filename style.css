@@ -18,17 +18,18 @@ body{
     display: flex;
     justify-content: space-around;
     justify-content: space-between;
-
-    background-color: rgb(225, 222, 230);
-
-    box-shadow: 2px 5px 5px 2px;
-
+  
+      border-bottom: 2px dashed black;
+      
+      border-top: 2px solid black;
 }
 
 .second-header{
     display: flex;
     justify-content: space-between;
-    background-color: wheat;
+
+    
+    box-shadow: 2px 5px 5px 2px;
 
 }
 
